@@ -1,4 +1,1 @@
-  - Hello (World), I’m Vladislav;
-    - I’m interested in programming;
-      - I’m writing code in Python and sometimes C#;
-        - I love playing roguelikes and platformers, maybe someday I’ll create something similar in Godot or another engine;
+hello world
